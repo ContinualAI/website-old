@@ -47,6 +47,7 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 
 The *ContinualAI Newsletter* will keep you updated on events & activities of the community, but also about important news in the field of Continual Learning.
 
+- [July/August 2021](https://mailchi.mp/72e3df4aa9ef/continualai-newsletter-4316321)
 - [June 2021](https://mailchi.mp/a269e1e3bf3d/continualai-newsletter-4302893)
 - [May 2021](https://mailchi.mp/0d8cbc96165a/continualai-newsletter-4299253)
 - [April 2021](https://mailchi.mp/4920d88ef9f0/continualai-newsletter-4287957)
