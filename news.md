@@ -12,7 +12,7 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 		<a href="#news">2. News & Events</a><br>
 		<a href="#newsletter">3. Monthly Newsletter</a><br>
 		<a href="#meetup">4. Monthly Meetups</a><br>
-		<a href="#rg">5. Weekly Reading Group</a><br>
+		<a href="#rg">5. Weekly Continual Learning Seminars</a><br>
 		<a href="#coffee">6. Virtual Coffe Program</a><br>
 		<a href="#medium">7. Medium Publication</a><br>
 	</p>
@@ -125,9 +125,9 @@ The *ContinualAI Meetups* are online, fun and informal meetups about a particola
 
 
 <a name="rg"></a>
-<h3 id="rg" style="margin-bottom: 30px;">Reading Group</h3>
+<h3 id="rg" style="margin-bottom: 30px;">Continual Learning Seminars</h3>
 
-The *ContinualAI Reading Group* is hosted every Friday in collaboration with [MILA](https://mila.quebec/en/) and it is based on roughly 60 minute discussion about a particular Continual Learning paper. Occasionally, a speaker is invited to explain their work. Join our reading group [on slack](https://join.slack.com/t/continualai/shared_invite/enQtNjQxNDYwMzkxNzk0LTBhYjg2MjM0YTM2OWRkNDYzOGE0ZTIzNDQ0ZGMzNDE3ZGUxNTZmNmM1YzJiYzgwMTkyZDQxYTlkMTI3NzZkNjU)! It will be the occasion to talk with other researchers of this amazing field!
+*Continual Learning Seminars* are hosted every Thursday in collaboration with [MILA](https://mila.quebec/en/) and it is based on roughly 60 minute discussion about a particular Continual Learning paper. Speakers are invited to explain their work, but please let us know if you are interested in presenting. Join our reading group [on slack](https://join.slack.com/t/continualai/shared_invite/enQtNjQxNDYwMzkxNzk0LTBhYjg2MjM0YTM2OWRkNDYzOGE0ZTIzNDQ0ZGMzNDE3ZGUxNTZmNmM1YzJiYzgwMTkyZDQxYTlkMTI3NzZkNjU), and check out our youtube page for past events! It's a great occasion to talk with other researchers in this amazing field!
 
 - [\[June 11th 2021\] "ACAE-REMIND for Online Continual Learning with Compressed Feature Replay"](https://www.youtube.com/watch?v=jDR2huP3xdc&ab_channel=ContinualAI)
 - [\[June 4th 2021\] "Continual Learning for Recurrent Neural Networks: an Empirical Evaluation"](https://www.youtube.com/watch?v=N_UqUTafev4&ab_channel=ContinualAI)
@@ -158,6 +158,7 @@ The [ContinualAI Medium Publication](https://medium.com/continual-ai) contains b
 
 Recent stories:
 
+- [Top-down Domain Inference for Lifelong Learning](https://medium.com/continual-ai/top-down-domain-inference-for-lifelong-learning-fdca6d619d43)
 - [Continuum: A Data Loader for Continual Learning](https://medium.com/continual-ai/continuum-a-data-loader-for-continual-learning-bb45ce9ef0ef)
 - [Task Label and Continual learning, what is going on?](https://medium.com/continual-ai/task-label-and-continual-learning-what-is-going-on-8f655d7e506)
 - [Continual Learning for Production Systems](https://medium.com/continual-ai/continual-learning-for-production-systems-304cc9f60603)
