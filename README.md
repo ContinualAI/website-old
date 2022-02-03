@@ -1,5 +1,7 @@
-# Continual AI - Website
+# ContinualAI - Jekyll Website now DEPRECATED
 <img src="https://continualai.herokuapp.com/badge.svg">
+
+_We moved to GitBook. If you want to help us maintain the new website, please send and email to contact@continualai.org_.
 
 Continual AI is the first hub on Continual / Lifelong Deep Learning in AI! :-)
 The aim of the project is to provide a starting point for researchers, developers and AI enthusiasts who share an interest or are willing to learn more and/or contribute to Continual / Lifelong Learning.
